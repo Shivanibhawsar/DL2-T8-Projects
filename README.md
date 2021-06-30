@@ -26,4 +26,8 @@ Numpy
 * copy the path of that folder and paste it into the PATH
 * Run "project-strangecues.ipynb" on google colab
 * It will take time to run
+* One thing that should be noted is that the starting year of the data we used is 1960s.
 * Now, you can see the top 1% moves in the dataframe named "Classic"
+
+## Result
+* We saw that the ratio of the top 1% movies with total movies is 0.0100026877229 
