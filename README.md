@@ -1,4 +1,4 @@
-# IMDb Data Analysis and Top 1% Movies
+# IMDb Data Analysis and Top 1% Movies(Team-Strangecues)
 
 ## Table of contents
 * [Dataset](#dataset)
