@@ -15,7 +15,7 @@ https://www.kaggle.com/ashirwadsangwan/imdb-dataset
 The dataset contains IMDb's extensive database updated till 2020. The size of the dataset is around 1.44 GB.
 
 ## Prerequisites
-os
+OS
 Scikit-learn
 Matplotlib
 Pandas
