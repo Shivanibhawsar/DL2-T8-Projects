@@ -1,1 +1,29 @@
-# DL2-T8-Projects
+# IMDb Data Analysis and Top 1% Movies
+
+## Table of contents
+* [Dataset](#dataset)
+* [Prerequisites](#prerequisites)
+* [Steps](#steps)
+* [Result](#result)
+
+
+## Dataset
+For this project I have used public dataset from kaggle
+
+https://www.kaggle.com/ashirwadsangwan/imdb-dataset
+
+The dataset contains IMDb's extensive database updated till 2020. The size of the dataset is around 1.44 GB.
+
+## Prerequisites
+os
+Scikit-learn
+Matplotlib
+Pandas
+Numpy
+
+## Steps
+* Firstly, you will need to download/upload the dataset to the colab and extract it in a folder
+* copy the path of that folder and paste it into the PATH
+* Run "project-strangecues.ipynb" on google colab
+* It will take time to run
+* Now, you can see the top 1% moves in the dataframe named "Classic"
